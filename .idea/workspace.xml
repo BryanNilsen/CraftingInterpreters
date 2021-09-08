@@ -4,8 +4,6 @@
     <list default="true" id="2329469b-110f-4d2c-bbc5-f7265bfd8e92" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lox/Lox.java" beforeDir="false" afterPath="$PROJECT_DIR$/lox/Lox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CraftingInterpreters/com/craftinginterpreters/lox/AstPrinter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CraftingInterpreters/com/craftinginterpreters/lox/AstPrinter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CraftingInterpreters/com/craftinginterpreters/lox/Lox.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CraftingInterpreters/com/craftinginterpreters/lox/Lox.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
